@@ -1,0 +1,25 @@
+{
+  "name": "transponder",
+  "version": "0.0.0",
+  "description": "Node.js daemon that sends metrics to statsd, including CPU, memory, disk and network IO. Simple configuration. Includes an API for adding custom reporters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mtharrison/transponder.git"
+  },
+  "keywords": [
+    "statsd",
+    "metrics",
+    "graphite",
+    "monitoring"
+  ],
+  "author": "Matt Harrison <hi@matt-harrison.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mtharrison/transponder/issues"
+  },
+  "homepage": "https://github.com/mtharrison/transponder"
+}
