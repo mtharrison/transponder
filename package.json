@@ -1,6 +1,6 @@
 {
   "name": "transponder",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Node.js daemon that sends metrics to statsd, including CPU, memory, disk and network IO. Simple configuration. Includes an API for adding custom reporters",
   "main": "index.js",
   "scripts": {
